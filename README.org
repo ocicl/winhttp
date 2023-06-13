@@ -1,0 +1,10 @@
+* winhttp
+
+CFFI bindings to WinHttp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fjames86/winhttp.git   |
+| commit  | 31fd07c  |
+| systems | winhttp |
+|---------+-------------------------------------------|
+
