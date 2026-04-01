@@ -7,3 +7,4 @@ CFFI bindings to WinHttp
 | commit  | 8611ba5                                     |
 | systems | winhttp                                     |
 |---------+---------------------------------------------|
+ 
